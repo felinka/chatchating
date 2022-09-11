@@ -169,6 +169,7 @@ namespace Чатик
 
 		public static int Tem = 0;
 
+
 		private void btnSend_Click(object sender, EventArgs e)
 		{
 			NewMethod();
