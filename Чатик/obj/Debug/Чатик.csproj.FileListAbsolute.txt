@@ -1,0 +1,30 @@
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\bin\Debug\Чатик.exe.config
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\bin\Debug\Чатик.exe
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\bin\Debug\Чатик.pdb
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.csproj.AssemblyReference.cache
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.Form1.resources
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.Properties.Resources.resources
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.csproj.GenerateResource.cache
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.csproj.CoreCompileInputs.cache
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.exe
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.pdb
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.Chats.resources
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.FormChat.resources
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.FormReg.resources
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.FormOptionss.resources
+C:\Users\qwerf\Desktop\Важное\Чатик\Чатик\obj\Debug\Чатик.FormConsole.resources
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\bin\Debug\Чатик.exe.config
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\bin\Debug\Чатик.exe
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\bin\Debug\Чатик.pdb
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.csproj.AssemblyReference.cache
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.Chats.resources
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.Form1.resources
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.FormChat.resources
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.FormConsole.resources
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.FormOptionss.resources
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.FormReg.resources
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.Properties.Resources.resources
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.csproj.GenerateResource.cache
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.csproj.CoreCompileInputs.cache
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.exe
+C:\Users\qwerf\Desktop\Важное\Волохо Алина\Чатик\Чатик\obj\Debug\Чатик.pdb
