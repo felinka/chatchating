@@ -45,7 +45,7 @@ namespace Чатик
 			// 
 			passwLabel.AutoSize = true;
 			passwLabel.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			passwLabel.Location = new System.Drawing.Point(68, 151);
+			passwLabel.Location = new System.Drawing.Point(68, 113);
 			passwLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
 			passwLabel.Name = "passwLabel";
 			passwLabel.Size = new System.Drawing.Size(69, 20);
@@ -56,7 +56,7 @@ namespace Чатик
 			// 
 			loginLabel.AutoSize = true;
 			loginLabel.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			loginLabel.Location = new System.Drawing.Point(79, 84);
+			loginLabel.Location = new System.Drawing.Point(79, 65);
 			loginLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
 			loginLabel.Name = "loginLabel";
 			loginLabel.Size = new System.Drawing.Size(58, 20);
@@ -66,7 +66,7 @@ namespace Чатик
 			// tbxPassw
 			// 
 			this.tbxPassw.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.tbxPassw.Location = new System.Drawing.Point(151, 145);
+			this.tbxPassw.Location = new System.Drawing.Point(151, 107);
 			this.tbxPassw.Margin = new System.Windows.Forms.Padding(4);
 			this.tbxPassw.Multiline = true;
 			this.tbxPassw.Name = "tbxPassw";
@@ -77,7 +77,7 @@ namespace Чатик
 			// tbxLogin
 			// 
 			this.tbxLogin.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.tbxLogin.Location = new System.Drawing.Point(151, 78);
+			this.tbxLogin.Location = new System.Drawing.Point(151, 59);
 			this.tbxLogin.Margin = new System.Windows.Forms.Padding(4);
 			this.tbxLogin.Multiline = true;
 			this.tbxLogin.Name = "tbxLogin";
@@ -88,7 +88,7 @@ namespace Чатик
 			// 
 			this.btnEnter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
 			this.btnEnter.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.btnEnter.Location = new System.Drawing.Point(122, 255);
+			this.btnEnter.Location = new System.Drawing.Point(122, 222);
 			this.btnEnter.Margin = new System.Windows.Forms.Padding(4);
 			this.btnEnter.Name = "btnEnter";
 			this.btnEnter.Size = new System.Drawing.Size(157, 35);
@@ -102,7 +102,7 @@ namespace Чатик
 			this.label1.AutoSize = true;
 			this.label1.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
 			this.label1.ForeColor = System.Drawing.Color.DarkSlateBlue;
-			this.label1.Location = new System.Drawing.Point(159, 306);
+			this.label1.Location = new System.Drawing.Point(159, 273);
 			this.label1.Name = "label1";
 			this.label1.Size = new System.Drawing.Size(100, 20);
 			this.label1.TabIndex = 14;
@@ -112,7 +112,7 @@ namespace Чатик
 			// checkBox1
 			// 
 			this.checkBox1.AutoSize = true;
-			this.checkBox1.Location = new System.Drawing.Point(136, 202);
+			this.checkBox1.Location = new System.Drawing.Point(136, 169);
 			this.checkBox1.Name = "checkBox1";
 			this.checkBox1.Size = new System.Drawing.Size(155, 23);
 			this.checkBox1.TabIndex = 15;
@@ -126,7 +126,7 @@ namespace Чатик
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 18F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-			this.ClientSize = new System.Drawing.Size(413, 398);
+			this.ClientSize = new System.Drawing.Size(404, 343);
 			this.Controls.Add(this.checkBox1);
 			this.Controls.Add(this.label1);
 			this.Controls.Add(this.tbxPassw);
