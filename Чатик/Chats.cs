@@ -303,7 +303,20 @@ namespace Чатик
 				StreamWriter sw = new StreamWriter("RemPass.txt");
 				sw.WriteLine("0");
 				sw.Close();
+
+				SqlConnection Con = new SqlConnection(Form1.TxtCon);
+				Con.Open();
+				string Txt = $"Пользователь {Form1.Login} вышел из чата";
+				string T = Form1.Slovar(Txt, 0);
+				string StrQuarte = $@"Insert into MessagesC (IDUs, TextMess) Values (3, '{T}')";
+
+				SqlCommand Quey11 = new SqlCommand(StrQuarte, Con);
+				Quey11.ExecuteNonQuery();
+				Con.Close();
+
 				this.Close();
+
+				
 			}
 		}
 		bool flag = false;
